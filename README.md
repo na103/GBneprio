@@ -2,7 +2,7 @@
 A classic Game Boy Cart with only a 2MB flash ROM, designed for low cost and low power consumption.</BR>
 Derived from the MBC5/MBC1 hybrid by insideGadgets and adapted to the ATF1502 logic CPLD.
 </BR></BR>
-![alt text](https://github.com/na103/SLcart/blob/main/Images/SLcart.png "SLcart")
+![alt text](https://github.com/na103/GBneprio/blob/main/Images/GBneprio.png "GBneprio")
 
 ## Bill of materials
 | Qt. |    Description     |             Designator          |    JLCPCB part     |        Mouser part            |
@@ -19,7 +19,7 @@ In the PCB Assembly folder, you can find the BOM and CPL files for production an
 To program the CPLD, you will need a compatible JTAG programmer (e.g., Atmel ATDH1150USB) and the SKEDD connector from Wurth Elektronik (code 490107671012).</br>
 When programming the CPLD from the JTAG connector, you must supply the board with 5V separately.</br>
 
-![alt text](https://github.com/na103/SLcart/blob/main/Images/JTAG.png "JTAG")
+![alt text](https://github.com/na103/GBneprio/blob/main/Images/JTAG.png "JTAG")
 
 
 
