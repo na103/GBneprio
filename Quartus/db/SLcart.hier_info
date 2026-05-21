@@ -1,0 +1,45 @@
+|SLcart
+reset => always0.IN0
+clock => ~NO_FANOUT~
+inputAddress[0] => LessThan0.IN8
+inputAddress[0] => LessThan1.IN8
+inputAddress[0] => Equal0.IN7
+inputAddress[0] => Equal1.IN7
+inputAddress[1] => LessThan0.IN7
+inputAddress[1] => LessThan1.IN7
+inputAddress[1] => Equal0.IN6
+inputAddress[1] => Equal1.IN6
+inputAddress[2] => LessThan0.IN6
+inputAddress[2] => LessThan1.IN6
+inputAddress[2] => Equal0.IN5
+inputAddress[2] => Equal1.IN5
+inputAddress[3] => LessThan0.IN5
+inputAddress[3] => LessThan1.IN5
+inputAddress[3] => Equal0.IN4
+inputAddress[3] => Equal1.IN4
+inputData[0] => Equal2.IN13
+inputData[0] => romBank.DATAA
+inputData[1] => Equal2.IN12
+inputData[1] => romBank.DATAA
+inputData[2] => Equal2.IN11
+inputData[2] => romBank.DATAA
+inputData[3] => Equal2.IN10
+inputData[3] => romBank.DATAA
+inputData[4] => Equal2.IN9
+inputData[4] => romBank.DATAA
+inputData[5] => Equal2.IN8
+inputData[5] => romBank.DATAA
+inputData[6] => Equal2.IN7
+inputCE => always0.IN1
+inputWR => always0.IN0
+inputRD => always0.IN0
+inputRD => always0.IN1
+highAddress[0] <= highAddress[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+highAddress[1] <= highAddress[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+highAddress[2] <= highAddress[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+highAddress[3] <= highAddress[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+highAddress[4] <= highAddress[4]$latch.DB_MAX_OUTPUT_PORT_TYPE
+highAddress[5] <= highAddress[5]$latch.DB_MAX_OUTPUT_PORT_TYPE
+highAddress[6] <= highAddress[6]$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+
