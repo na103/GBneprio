@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATF1502AS-10AU44
+D CPLD - Complex Programmable Logic Devices CPLD 32 MACROCELL ISP STD PWR 5V-10NS
+K
+F http://media.digikey.com/pdf/Data%20Sheets/Intel%20PDFs/80C186XL,%2080C188XL.pdf
+$ENDCMP
+#
+#End Doc Library

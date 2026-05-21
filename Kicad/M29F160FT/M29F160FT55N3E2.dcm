@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M29F160FT55N3E2
+D NOR Flash
+K
+F https://www.micron.com/-/media/client/global/documents/products/data-sheet/nor-flash/m29fxxft-fb.pdf
+$ENDCMP
+#
+#End Doc Library

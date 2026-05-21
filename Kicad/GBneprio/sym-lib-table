@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SLcart_Library") (type "KiCad") (uri "${KIPRJMOD}/SLcart_Library.kicad_sym") (options "") (descr ""))
+	(lib (name "HDR_Gameboy") (type "KiCad") (uri "C:/Users/n.avanzi/Desktop/SLcart/Kicad/HDR_Gameboy/Symbols/HDR_Gameboy.kicad_sym") (options "") (descr ""))
+)

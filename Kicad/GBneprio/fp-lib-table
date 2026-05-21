@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SLcart") (type "KiCad") (uri "${KIPRJMOD}/GBneprio.pretty") (options "") (descr ""))
+)
