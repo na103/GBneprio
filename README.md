@@ -1,4 +1,4 @@
-# SLcart
+## GameBoy  compatible 2MB Flash Cart 
 A classic Game Boy Cart with only a 2MB flash ROM, designed for low cost and low power consumption.</BR>
 Derived from the MBC5/MBC1 hybrid by insideGadgets and adapted to the ATF1502 logic CPLD.
 </BR></BR>
